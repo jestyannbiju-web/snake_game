@@ -135,5 +135,3 @@ def gameLoop():
 # Run the game
 gameLoop()
  
-pwd
-
